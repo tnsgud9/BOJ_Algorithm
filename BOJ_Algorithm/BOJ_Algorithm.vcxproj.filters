@@ -16,26 +16,134 @@
     <Filter Include="소스 파일\DataStructure">
       <UniqueIdentifier>{0f824dd5-e107-499d-942c-c4aace05b9d9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\BOJ">
+      <UniqueIdentifier>{833923c1-a61f-4c48-953b-3886112590e9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1003.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="DFS.cpp">
       <Filter>소스 파일\DataStructure</Filter>
     </ClCompile>
-    <ClCompile Include="11053.cpp">
+    <ClCompile Include="홀수.c">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="검증수.c">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="과자.c">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="그릇.c">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="나는 학급회장이다.(투표).c">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="대표값2.c">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="덩치.c">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="떡 먹는 호랑이.c">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="백성공주와 난쟁이.c">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="세로읽기.c">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="수강신청.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="수열.c">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="싸이클.c">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="약수구하기.c">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="오븐시계.c">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="윷놀이.c">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="자리배정.c">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="주사위 게임.c">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="지능형기차.c">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="최대값.c">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10부제.c">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="43.c">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="49.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="50.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="51.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="52.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="54.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="55.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="56.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="57.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="58.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="59.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="60.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1003.cpp">
+      <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
     <ClCompile Include="9663.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
     <ClCompile Include="9663-1.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11053.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="369 게임-x.cpp">
+      <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="output.txt">
       <Filter>리소스 파일</Filter>
     </Text>
   </ItemGroup>
