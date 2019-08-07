@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\BOJ">
       <UniqueIdentifier>{833923c1-a61f-4c48-953b-3886112590e9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\NYPC2019">
+      <UniqueIdentifier>{89fc48a9-fbb6-4073-876f-b892d6c49b35}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DFS.cpp">
@@ -137,6 +140,12 @@
     </ClCompile>
     <ClCompile Include="369 게임-x.cpp">
       <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="요리 제작.cpp">
+      <Filter>소스 파일\NYPC2019</Filter>
+    </ClCompile>
+    <ClCompile Include="달팽이게임.cpp">
+      <Filter>소스 파일\NYPC2019</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

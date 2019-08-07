@@ -1,6 +1,2 @@
-﻿  수강신청.cpp
-C:\Users\user\Documents\GitHub\BOJ_Algorithm\BOJ_Algorithm\수강신청.cpp(7,1): warning C4996:  'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(243): message :  'freopen' 선언을 참조하십시오.
-C:\Users\user\Documents\GitHub\BOJ_Algorithm\BOJ_Algorithm\수강신청.cpp(8,1): warning C4996:  'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(243): message :  'freopen' 선언을 참조하십시오.
-  BOJ_Algorithm.vcxproj -> C:\Users\user\Documents\GitHub\BOJ_Algorithm\Debug\BOJ_Algorithm.exe
+﻿  요리 제작.cpp
+  BOJ_Algorithm.vcxproj -> D:\GitHub\BOJ_Algorithm\Debug\BOJ_Algorithm.exe
