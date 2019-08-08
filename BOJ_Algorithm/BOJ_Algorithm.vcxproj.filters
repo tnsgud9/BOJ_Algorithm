@@ -147,6 +147,12 @@
     <ClCompile Include="달팽이게임.cpp">
       <Filter>소스 파일\NYPC2019</Filter>
     </ClCompile>
+    <ClCompile Include="최대 HP.cpp">
+      <Filter>소스 파일\NYPC2019</Filter>
+    </ClCompile>
+    <ClCompile Include="ID확인.cpp">
+      <Filter>소스 파일\NYPC2019</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
