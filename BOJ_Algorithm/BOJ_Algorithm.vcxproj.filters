@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\NYPC2019">
       <UniqueIdentifier>{89fc48a9-fbb6-4073-876f-b892d6c49b35}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\BOJ\다 못풀음">
+      <UniqueIdentifier>{7794f46e-ceda-4f87-b85c-b20638364b25}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DFS.cpp">
@@ -129,15 +132,6 @@
     <ClCompile Include="1003.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
-    <ClCompile Include="9663.cpp">
-      <Filter>소스 파일\BOJ</Filter>
-    </ClCompile>
-    <ClCompile Include="9663-1.cpp">
-      <Filter>소스 파일\BOJ</Filter>
-    </ClCompile>
-    <ClCompile Include="11053.cpp">
-      <Filter>소스 파일\BOJ</Filter>
-    </ClCompile>
     <ClCompile Include="369 게임-x.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
@@ -153,7 +147,16 @@
     <ClCompile Include="ID확인.cpp">
       <Filter>소스 파일\NYPC2019</Filter>
     </ClCompile>
-    <ClCompile Include="2250.cpp">
+    <ClCompile Include="트리의 높이와 너비.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="N-Queen.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="가장 긴 증가하는 부분 수열.cpp">
+      <Filter>소스 파일\BOJ\다 못풀음</Filter>
+    </ClCompile>
+    <ClCompile Include="1965 상자넣기.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
   </ItemGroup>
