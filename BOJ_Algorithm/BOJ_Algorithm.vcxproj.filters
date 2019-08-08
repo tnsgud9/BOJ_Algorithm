@@ -153,6 +153,9 @@
     <ClCompile Include="ID확인.cpp">
       <Filter>소스 파일\NYPC2019</Filter>
     </ClCompile>
+    <ClCompile Include="2250.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
