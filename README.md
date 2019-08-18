@@ -5,6 +5,6 @@ BOJ_Algorithm
  으아아
 <br>
 <strong>세상 온갖 알고리즘 문제 풀고 연습하기</strong> 위해 만들어진 깃입니다.<br><br>
-#### 알고리즘 트레이닝 사이트 프로필
-백준 :  https://www.acmicpc.net/user/tnsgud9  
+#### 알고리즘 트레이닝 사이트 프로필 <br>
+백준 :  https://www.acmicpc.net/user/tnsgud9   <br>
 CodeUp : https://codeup.kr/userinfo.php?user=tnsgud9  
