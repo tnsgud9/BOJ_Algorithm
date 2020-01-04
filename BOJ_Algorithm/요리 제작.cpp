@@ -21,13 +21,16 @@ int main()
 	for (int i = 0; i < N; i++) cin >> arr2[i];
 
 	int i = 0;
+
+	int tmpCnt = 0;
+
 	while (1)
 	{
-
 		if (arr1[i] >= arr2[i])
 		{
-			arr1[i] -= arr2[i];
-			if (i == N-1)
+
+			arr1[i] -= arr2[i]; //뺴버림
+			if (i == N-1) //0번지 부터 받음
 			{
 				cnt++;
 				i = 0;
@@ -38,7 +41,7 @@ int main()
 			break;
 
 	}
-
+	
 	cout << cnt;
 
 	return 0;
