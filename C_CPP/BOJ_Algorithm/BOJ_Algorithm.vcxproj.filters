@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\BOJ\다 못풀음">
       <UniqueIdentifier>{7794f46e-ceda-4f87-b85c-b20638364b25}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\BOJ SW Mastro">
+      <UniqueIdentifier>{7ded1170-7263-4298-a6b7-128d3df09e93}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DFS.cpp">
@@ -183,6 +186,12 @@
     <ClCompile Include="10866 덱.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
+    <ClCompile Include="2750 수 정렬하기.cpp">
+      <Filter>소스 파일\BOJ SW Mastro</Filter>
+    </ClCompile>
+    <ClCompile Include="이분탐색.cpp">
+      <Filter>소스 파일\BOJ SW Mastro</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
@@ -191,5 +200,10 @@
     <Text Include="output.txt">
       <Filter>리소스 파일</Filter>
     </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="readme.md">
+      <Filter>소스 파일\BOJ SW Mastro</Filter>
+    </None>
   </ItemGroup>
 </Project>
