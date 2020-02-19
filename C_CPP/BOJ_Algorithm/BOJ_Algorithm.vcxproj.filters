@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\BOJ SW Mastro">
       <UniqueIdentifier>{7ded1170-7263-4298-a6b7-128d3df09e93}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\DomJudge">
+      <UniqueIdentifier>{074cbc0d-033c-4abd-a44d-d9cf2bb4e969}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DFS.cpp">
@@ -192,6 +195,30 @@
     <ClCompile Include="이분탐색.cpp">
       <Filter>소스 파일\BOJ SW Mastro</Filter>
     </ClCompile>
+    <ClCompile Include="11726 2×n 타일링.cpp">
+      <Filter>소스 파일\BOJ SW Mastro</Filter>
+    </ClCompile>
+    <ClCompile Include="16916 부분 문자열.cpp">
+      <Filter>소스 파일\BOJ SW Mastro</Filter>
+    </ClCompile>
+    <ClCompile Include="--16916 부분문자열.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="KMP.cpp">
+      <Filter>소스 파일\BOJ SW Mastro</Filter>
+    </ClCompile>
+    <ClCompile Include="1463 1로 만들기.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="적절한 수열.cpp">
+      <Filter>소스 파일\DomJudge</Filter>
+    </ClCompile>
+    <ClCompile Include="2178 미로 탐색.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1753 최단경로.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
@@ -204,6 +231,9 @@
   <ItemGroup>
     <None Include="readme.md">
       <Filter>소스 파일\BOJ SW Mastro</Filter>
+    </None>
+    <None Include="1.TO-DO.md">
+      <Filter>소스 파일\BOJ</Filter>
     </None>
   </ItemGroup>
 </Project>
