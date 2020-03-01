@@ -1,5 +1,11 @@
 BOJ_Algorithm
 =============
+## 이 깃은 더이상 작업하지 않습니다.
+## 불필요한 소스들을 지우고 개편을 위해 algorithm 깃에서 작업합니다.
+## https://github.com/tnsgud9/algorithm 
+
+
+
 ### 으아!! 이 깃은 작성자의 정신을 갈아드립니다. ^^
 <img src="https://user-images.githubusercontent.com/26598708/62726482-450bda00-ba52-11e9-9aac-9dce77a996cf.gif" width="40%">
  으아아
